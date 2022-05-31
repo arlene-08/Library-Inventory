@@ -1,7 +1,6 @@
 
 #ifndef Book_h
 #define Book_h
-
 #include <stdio.h>
 #include <string>
 
