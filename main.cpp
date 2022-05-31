@@ -18,7 +18,7 @@ enum Menu { Add_Patron=1, Delete_Patron=2,Add_Book=3,Edit_Book=4, Find_Book=5,De
 int choice;
 
 int main(){
-    
+  //Display menu options   
     cout << endl;
         cout << "Menu Options" <<endl;
         cout<< "1.  Add Patrons" << endl;
