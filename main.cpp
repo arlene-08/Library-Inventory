@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Simple Library Inventory
+//  Library Inventory
 //  created by Arlene Makia
 //
 
